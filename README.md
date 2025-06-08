@@ -32,8 +32,24 @@ How can the company effectively target customers to increase acceptance rates in
 4. Education has no impact - don't target any group
 5. Marital Status - doesn't play a big part. Married, Single, Together, spend more money.
 
+With the age segmentation. The below charts highlights that the core audience for accepting campaigns is between 31-70 years old. However, customers within the ages of 23-30 and 71-up accept at higher rates.
+
    ![image](https://github.com/user-attachments/assets/b3fa3c44-cb0c-47b2-a167-2e9b57536f65)
    ![image](https://github.com/user-attachments/assets/43b60044-9c80-4927-9b4f-aff8a2b9defd)
+
+   
+   ![image](https://github.com/user-attachments/assets/c01e5ff6-d85c-4444-9240-cb3aad0ed7d1)
+
+For the number of purchases made by people who accepted the campaigns after performing regression analysis on the above three methods:
+All have a positive correlation: the more money spent, the more purchases made.
+From this, we can infer future directions: boost the higher percentage of catalog customers, or focus on in-store/web because they have more traffic.
+
+   ![image](https://github.com/user-attachments/assets/439ccd42-8264-46bd-b3fb-71cdc7be5c26)
+   ![image](https://github.com/user-attachments/assets/4ac61011-3dd5-4de3-8fb4-50e3ba264b5b)
+   ![image](https://github.com/user-attachments/assets/c6022c7e-49cc-487a-868c-afa8dd02df63)
+
+
+
 
 
 
