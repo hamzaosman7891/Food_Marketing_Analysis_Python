@@ -23,9 +23,7 @@ How can the company effectively target customers to increase acceptance rates in
 
 ## Appendix
 
-Any additional information goes here
-
-
+![food_marketing_Dictionary](https://github.com/user-attachments/assets/8fdc77a3-8fcf-4f99-80ed-7132f7fc27b8)
 
 ## Overall Findings
 1. Age : 30-70 were spending more money, but less likely to accept campaigns. Higher volume here though.
