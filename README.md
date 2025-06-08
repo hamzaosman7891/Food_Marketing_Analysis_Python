@@ -32,6 +32,11 @@ How can the company effectively target customers to increase acceptance rates in
 4. Education has no impact - don't target any group
 5. Marital Status - doesn't play a big part. Married, Single, Together, spend more money.
 
+   ![image](https://github.com/user-attachments/assets/b3fa3c44-cb0c-47b2-a167-2e9b57536f65)
+   ![image](https://github.com/user-attachments/assets/43b60044-9c80-4927-9b4f-aff8a2b9defd)
+
+
+
 ## Recommendations
 
 1. Money Making : Middle Aged, People, high earners, with no kids. Target on different platforms with the above split
