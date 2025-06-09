@@ -7,7 +7,7 @@ This project will analyse a food delivery company and it's marketing schemes
 
 Explore the data - Provide insights, define cause and effect. Provide a better understanding of the characteristic features of respondents;
 
-Propose and describe a customer segmentation based on customers behaviors;
+Propose and describe a customer segmentation based on customers behaviours;
 
 Visualize data and provide written reasoning behind discoveries;
 Research Questions:
