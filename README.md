@@ -44,7 +44,7 @@ With the age segmentation. The below charts highlights that the core audience fo
 
 2. For New Users to Spend Money : Focus on 21-30, 70 and up- who statistically accepted campaigns at a higher rate.
 
-3. Since the age range from 31 to 70 is spending a significant amount of money, the com[any should focus their efforts on this group and tailor their campaigns to encourage even more spending.
+3. Since the age range from 31 to 70 is spending a significant amount of money, the company should focus their efforts on this group and tailor their campaigns to encourage even more spending.
 
 4. The age ranges from 23 to 30 years old and 71 to 85 years old may be spending less, but they are more receptive to marketing campaigns. Therefore, the marketing department should target these groups with campaigns designed to increase their spending.
 
